@@ -60,6 +60,7 @@ pytest tests/test_pokemon.py
 
 ''' deactivate
 '''
+
 5. Ожидаемый результат: получим отчет о прохождении тестов.
 
 
