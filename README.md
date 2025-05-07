@@ -34,12 +34,12 @@
 
 
 
-``` markdown
+``` 
 py -m venv venv\
 C:\Users\Name\AppData\Local\Programs\Python\Python312\python -m venv venv\
 ```
 
-``` markdown
+``` 
 venv\Scripts\activate
 ```
 
@@ -48,12 +48,12 @@ venv\Scripts\activate
 python -m pip install requests
 ```
 
-``` markdown
+``` 
 python3 -m pip install pytest
 ```
 
 Запускаем
-``` markdown
+``` 
 pytest tests/test_pokemon.py
 ```
 Деактивировать
