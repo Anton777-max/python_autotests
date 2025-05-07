@@ -56,10 +56,7 @@ python3 -m pip install pytest
 ``` markdown
 pytest tests/test_pokemon.py
 ```
-Деактивировать
 
-''' deactivate
-'''
 
 5. Ожидаемый результат: получим отчет о прохождении тестов.
 
