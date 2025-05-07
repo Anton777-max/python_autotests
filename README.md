@@ -35,7 +35,7 @@
 
 
 ``` markdown
-PS> py -m venv venv\
+py -m venv venv\
 C:\Users\Name\AppData\Local\Programs\Python\Python312\python -m venv venv\
 ```
 
